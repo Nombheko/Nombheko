@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nombheko
-- 👀 I’m interested in learning more about coding
+- 👀 I’m interested in learning more about coding and AI
 - 🌱 I’m currently studying robotics
 - 💞️ I’m looking to collaborate on any cool robotics projects
 - 📫 How to reach me: Discord - @vertical_ecstacy
